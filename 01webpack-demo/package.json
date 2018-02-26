@@ -1,0 +1,23 @@
+{
+  "name": "webpack-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^0.28.10",
+    "csv-loader": "^2.1.1",
+    "style-loader": "^0.20.2",
+    "webpack": "^3.11.0",
+    "xml-loader": "^1.2.1"
+  },
+  "dependencies": {
+    "file-loader": "^1.1.9",
+    "lodash": "^4.17.5"
+  }
+}
